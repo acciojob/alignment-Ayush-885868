@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+
+tr,td,table{
+	border-spacing:0;
+	border:1px solid black;
+}
+.center{
+	text-align:center;
+		/*padding-left:35px;
+		padding-right:35px;*/
+
+}
+.right{
+	text-align:right;
+	/*padding-left:35px;*/
+}
+.middle{
+	margin-left:auto;
+	margin-right:auto;
+	
+	
+}
+#t11{
+	padding:1px;
+}
+#table-1{
+	height:100px;
+	width:200px;
+}
+#table-2{
+	height:200px;
+	width:200px;
+}
+#table-3{
+	height:160px;
+	width:200px;
+}
+#t-image{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:150px;
+	width:40%
+	
+}
